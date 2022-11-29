@@ -1,15 +1,17 @@
-# DtMoney
-
+<h1 align="center">
+ DtMoney
+</h1>
 <p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#requirements">Requirements</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#usage">Usage</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br />
 
 ## Description
+  This application has the purpose of helping the user to have control of his finances, registering his expenses and income. The data is saved using a fake api, made with MirageJs.
 ## Requirements
 
 - [Npm](https://www.npmjs.com/)
